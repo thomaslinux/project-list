@@ -32,8 +32,10 @@
      
   - [ ] support french and english
      
-## Roblox
+## mods
 
-Learn how to make Roblox games
+- [ ] Learn how to make Roblox games
 
-- [ ] clone Overcooked (may be fun)
+  - [ ] clone Overcooked (may be fun)
+     
+- [ ] Modify MegaGlest so the units stats are shown on hover the buttons

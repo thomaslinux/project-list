@@ -2,7 +2,9 @@
 
 ## Easy projects
 
-- [x] Game : [Guess the random number](https://github.com/thomaslinux/GuessTheRandomNumberJavascript) (works on most browser (sorry IE11)) 
+- [x] Game : [Guess the random number](https://github.com/thomaslinux/GuessTheRandomNumberJavascript) (works on most browser (sorry IE11))
+
+- [ ] Bataille navale / morpion / sudoku / pendu
 
 - [ ] SoundBoard : a lightweight site that stores sounds that can be played when pressing a button. Should work fine with LocalStorage
 

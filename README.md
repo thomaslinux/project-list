@@ -1,5 +1,7 @@
 # // TODO - List : List of projects I want to make
 
+# Websites
+
 ## Easy projects
 
 - [x] Game : [Guess the random number](https://github.com/thomaslinux/GuessTheRandomNumberJavascript) (works on most browser (sorry IE11))
@@ -30,6 +32,16 @@
 
 ## Hard projects
 
+- [ ] logiciel de caisse
+
+- [ ] impression étiquettes
+      
+   - [ ] import de csv
+   - [ ] conversion de xlsx
+   - [ ] choix de dimension de page
+   - [ ] génération de pdf / support de l'impression 
+     
+
 - [ ] CV  maker : an alternative to [rxresu.me](https://alternativeto.net/software/reactive-resume/about/) not made with react that will make resumes that work better with a parser / ATS.
 
   Objectives :
@@ -39,7 +51,9 @@
   - [ ] section should have dimensions of a page
      
   - [ ] support french and english
-     
+
+# Games
+
 ## Roblox
 
 - [ ] Learn how to make Roblox games
@@ -47,6 +61,8 @@
   - [ ] clone Overcooked (may be fun)
         
   - [ ] clone Sword and Soldiers (Mobile priority, network 🥰)
+        
+  - [ ] logiciel de caisse (see the limits of storing data on Roblox)
 
 ## MegaGlest
 

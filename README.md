@@ -61,6 +61,8 @@
   - [ ] clone Overcooked (may be fun)
         
   - [ ] clone Sword and Soldiers (Mobile priority, network 🥰)
+     
+  - [ ] clone HayDay (money making logic already imagined, easy well known mechanics)
         
   - [ ] logiciel de caisse (see the limits of storing data on Roblox)
 

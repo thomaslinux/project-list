@@ -40,10 +40,17 @@
      
   - [ ] support french and english
      
-## mods
+## Roblox
 
 - [ ] Learn how to make Roblox games
 
   - [ ] clone Overcooked (may be fun)
-     
+        
+  - [ ] clone Sword and Soldiers (Mobile priority, network 🥰)
+
+## MegaGlest
+
+- [ ] Learn how to compile C++ code on Windows (MinGW ?)
+
 - [ ] Modify MegaGlest so the units stats are shown on hover the buttons
+

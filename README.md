@@ -54,6 +54,10 @@
 
 # Games
 
+## CSS
+
+- [ ] Galette saucisse, un jeu pour s'entraîner au css (emilia res)
+
 ## Roblox
 
 - [ ] Learn how to make Roblox games

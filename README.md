@@ -1,4 +1,4 @@
-# // TODO - List : List of projects I want to make
+# TODO - List : List of projects I want to make
 
 # Websites
 
@@ -76,3 +76,7 @@
 
 - [ ] Modify MegaGlest so the units stats are shown on hover the buttons
 
+# Snapchat filters clones
+
+- [ ] most searched on Google
+- [ ] yes, no, maybe on press

@@ -1,5 +1,11 @@
 # TODO - List : List of projects I want to make
 
+# Extensions
+
+- [ ] Teams hide message from user
+- [ ] Teams set background image (split projects ?)
+- [ ] remove all regex constraints / change input type
+
 # Websites
 
 ## Easy projects

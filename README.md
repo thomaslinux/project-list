@@ -2,9 +2,11 @@
 
 # Extensions
 
-- [ ] Teams hide message from user
-- [ ] Teams set background image (split projects ?)
-- [ ] remove all regex constraints / change input type
+- [ ] Teams hide message from user (working, need refactoring of the popup interface for style parity)
+- [ ] Teams set background image (split projects ?) (currently a userstyle)
+- [ ] remove all regex constraints / change input type (currently a javascript snippet)
+
+- [ ] LinkedIn group users by custom categories
 
 # Websites
 

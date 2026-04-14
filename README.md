@@ -10,6 +10,10 @@
 
 # Websites
 
+## WordPress
+
+- [ ] Things counter, to count things
+
 ## Easy projects
 
 - [x] Game : [Guess the random number](https://github.com/thomaslinux/GuessTheRandomNumberJavascript) (works on most browser (sorry IE11))

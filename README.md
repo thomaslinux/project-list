@@ -14,6 +14,11 @@
 
 - [ ] Things counter, to count things
 
+## SuperMarkets price comparator - search a product on multiple stores to see which one is the cheapest
+
+### V1
+ - [ ] Iframes to the drive version of the site, searching the same term on the sites
+
 ## Easy projects
 
 - [x] Game : [Guess the random number](https://github.com/thomaslinux/GuessTheRandomNumberJavascript) (works on most browser (sorry IE11))

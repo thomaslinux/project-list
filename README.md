@@ -23,6 +23,8 @@
 
 - [x] Game : [Guess the random number](https://github.com/thomaslinux/GuessTheRandomNumberJavascript) (works on most browser (sorry IE11))
 
+- [ ] Password Generator
+
 - [ ] Bataille navale / morpion / sudoku / pendu
 
 - [ ] SoundBoard : a lightweight site that stores sounds that can be played when pressing a button. Should work fine with LocalStorage

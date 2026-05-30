@@ -8,13 +8,20 @@
 
 - [ ] LinkedIn group users by custom categories
 
+# Userscripts
+
+- [ ] Tinder auto dislike (by age, term in description, name list)
+
 # Websites
 
 ## WordPress
 
 - [ ] Things counter, to count things
 
-## SuperMarkets price comparator - search a product on multiple stores to see which one is the cheapest
+## SuperMarkets price comparator
+
+-> search a product on multiple stores to see which one is the cheapest
+(exists in web search engines somehow)
 
 ### V1
  - [ ] Iframes to the drive version of the site, searching the same term on the sites

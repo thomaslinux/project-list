@@ -30,6 +30,8 @@
 
 - [x] Game : [Guess the random number](https://github.com/thomaslinux/GuessTheRandomNumberJavascript) (works on most browser (sorry IE11))
 
+- [ ] pick a number : just a webpage that gives a random number
+
 - [ ] Password Generator
 
 - [ ] Bataille navale / morpion / sudoku / pendu

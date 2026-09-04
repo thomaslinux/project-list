@@ -28,6 +28,8 @@
 
 ## Easy projects
 
+- [ ] qrcodegenerator, free website
+
 - [x] Game : [Guess the random number](https://github.com/thomaslinux/GuessTheRandomNumberJavascript) (works on most browser (sorry IE11))
 
 - [ ] pick a number : just a webpage that gives a random number
@@ -47,6 +49,8 @@
   - [ ] total score is calculated, every game score is saved as int[] equivalent
 
 - [ ] BootStrap Memory : remake the game of memory using bootstrap to understand how it can be useful
+
+
 
 ## Medium projects
 
